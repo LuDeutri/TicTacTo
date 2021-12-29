@@ -1,0 +1,3 @@
+﻿  TicTacTo.cpp
+D:\Home\Sonstiges\C++ Tutorial\TicTacTo\TicTacTo\TicTacTo.cpp(71,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  TicTacTo.vcxproj -> D:\Home\Sonstiges\C++ Tutorial\TicTacTo\Debug\TicTacTo.exe
